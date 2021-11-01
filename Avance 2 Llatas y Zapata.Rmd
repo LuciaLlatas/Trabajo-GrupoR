@@ -11,7 +11,7 @@ output:
 pkgdown:
   as_is: true
 ---
-Repositorio GitHub: https://github.com/LuciaLlatas/Trabajo-GrupoR-LlatasLucia-20193345-Zapata-MariaLuz-20183247-/upload
+Repositorio GitHub: https://github.com/LuciaLlatas/Trabajo-GrupoR-LlatasLucia-20193345-Zapata-MariaLuz-20183247-.git
 ```{r}
 library(rmdformats)
 library(jmv)
