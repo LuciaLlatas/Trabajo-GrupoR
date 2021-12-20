@@ -1,0 +1,578 @@
+---
+title: "Factores que explican la corrupcion en America Latina"
+date: "`r Sys.Date()`"
+author: Lucía LLatas Alvarado (20193345) y Maria Luz Zapata Gregorio (20183247)
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: false
+    highlight: tango
+---
+Link de video [Aqui](https://drive.google.com/file/d/1dzC_dRbtUvMVCTsU4Z5-kKqOKnVvFmzc/view?usp=sharing)
+```{r global_options, echo=FALSE}
+knitr::opts_chunk$set(fig.path="Figs/", message=FALSE, warning=FALSE,
+                      echo=FALSE, fig.width=8)
+```
+# **I. Introducción**
+
+<span style="color:black"> La corrupción es un problema que ha socavado a los gobiernos y administraciones públicas en América Latina. El informe presentado por el Programa para el Desarrollo de Naciones Unidas (PNUD) en 2002 afirma que los países iberoamericanos presentan algunos de los índices de corrupción más altos del mundo. Asimismo, indica que la corrupción es uno de los principales impedimentos para el desarrollo regional y que ésta se ha multiplicado en los últimos años (Bautista, Oscar 2012:49) Ante los escándalos de corrupción y la percepción del fenómeno, las distintas sociedades latinoamericanas están exigiendo respuestas institucionales sólidas, así como una respuesta adecuada por parte del sistema de justicia. Así, se han tratado de mejorar los marcos legales e institucionales, y la mayoría de los países se han juntado y cooperado a iniciativas internacionales, mediante la creación de agencias anticorrupción, introduciendo leyes procesales y normas administrativas; así como, se han dado pasos importantes en la busqueda de transparencia y acceso a la información pública, entre otros compromisos.  </span>
+
+<span style="color:black">  Además, como han puesto sobre la mesa el caso Odebrecht y sus ramificaciones, la lucha contra la corrupción no es responsabilidad única de cada país sino que se constituye como un problema a nivel regional y global, en la medida en que es necesaria la colaboración y apoyo de otros países para combatirla. Se requiere de más especialización y capacidad de las agencias contra la corrupción, una mayor colaboración interinstitucional, más intercambio de información a nivel global y mejores formas para proteger a los denunciantes. Al respecto, frente a los factores que incitan a la corrupción como el soborno en todas sus formas, falta de instituciones eficaces, responsables y transparentes en todos los niveles; no existe una garantía del acceso público a la información de conformidad con las leyes nacionales y los acuerdos globales.  </span>
+
+<span style="color:black"> La Agenda 2030, representa uno de los esfuerzos más importantes desde la comunidad internacional para combatir la corrupción al situarla como uno de sus 17 Objetivos de Desarrollo Sostenible (ODS). En ella se vincula la construcción de instituciones democráticas sólidas como una herramienta eficaz para su erradicación. Así, en las metas del ODS 16 se prevé “reducir sustancialmente la corrupción, garantizar mejores instituciones de alto nivel y la eficacia como acceso a las leyes” (Ramos y Álvarez 2019: 23).  </span>
+
+<span style="color:black"> De manera similar, en el año 2018, en la Cumbre de las Americas, 34 países se comprometieron a establecer como objetivo de sus gobiernos, procurar la “Gobernabilidad Democrática frente a la Corrupción”. Este objetivo común es un hito y la expresión más reciente de la voluntad política para la gobernabilidad democrática y la lucha contra la corrupción en la región. En octubre de ese mismo año, durante la junta de Alto Nivel del Programa Regional de la OCDE para América Latina y el Caribe sobre Integridad para el Buen Gobierno, se discutió y planteó de manera conjunta un plan de acción para poder materializar el compromiso asumido por los países. Este plan propone 103 medidas que los gobiernos de la región pueden emprender para avanzar hacia la erradicación de la corrupción en las administraciones públicas y garantizar una política más inclusiva (2019: 4). </span>
+
+
+<span style="color:black"> Como futuras internacionalistas, consideramos que trazar las raíces o causas de esta problemática resultan muy importantes para poder evaluar y recomendar soluciones tanto de politica nacional como exterior con el fin de fomentar la cooperación internacional en el combate a la corrupción. Siendo el continente americano una de las regiones que más afectadas, con Venezuela y Nicaragua percibidas como las naciones mas corruptas en la region (Transparencia Internacional, 2019), es necesario estudiar este fenomeno relacionado indiscutiblemente con el desarrollo y crecimiento de los países, variables con los que se considera presenta una relación inversamente proporcional. En ese sentido, las políticas públicas han de enfocarse en este problema para poder abordar el desarrollo nacional y regional desde un panorama más amplio que permita encaminar todas las aristas del problema hacia la agenda política. </span>
+
+<span style="color:black">  En ese sentido, la identificación de factores que permitan a los Estados explicar y combatir la corrupción en sus gobiernos es una tarea importante desde el ámbito académico. En el presente trabajo, recopilamos siete factores que consideramos explican un determinado nivel de corrupción en la región latinoamericana.El primer factor es el Producto Interno Bruto per cápita, este nos permite comparar las diferencias en cuanto a condiciones económicas entre los habitantes de los países latinoamericanos.Con respecto a su relación con la corrupción, creemos que si el PIB per cápita es alto (lo que indicaría un nivel de adquisión economica alto en los habitantes) el nivel de corrupción será bajo pues el bienestar económico sería un desincentivo a las acciones deshonestas desde el gobierno.El segundo factor sería la Tasa de Pobreza pues las personas pobres necesitan acceso a los servicios que ofrece el gobierno, por lo que un nivel más alto de pobreza significa que más ciudadanos podrían estar dispuestos a pagar sobornos para acceder a estos servicios (Juresten y Bjornskov 2014). En tercer lugar, es el nivel de desigualdad en los países latinoamericanos. Según You y Khagram (2005), cuando el nivel de desigualdad es alto se esperarían niveles más altos de corrupción ya que la población de ricos, podrían usar su poder económico para coaccionar y realizar prácticas corruptas que les hagan mantener sus posiciones actuales y/o beneficiarse de ciertas políticas que respondan directamente a sus intereses. </span>
+<span style="color:black">  Otro factor a considerar son los Derechos de propiedad. Según Dimant y Tosato, la poco efectividad de los Estados para garantizar la aplicación de los contratos y los derechos de propiedad, incita a las personas del sector privado a participar en comportamientos corruptos para hacer preservar estos derechos (2018: 341) El factor de la Remuneración burocrática, el cual hace referencia a los salarios de los servicodres públicos, se relaciona con la corrupción pues se esperaría que burocrátas con salarios altos tendrían menos incentivos para caer en actos corrupctos. </span>
+
+<span style="color:black">  Asimismo, un estudio de Goel y Nelson en 1998 demostró que el tamaño del gobierno, particularmente el gasto público de este tiene una gran influencia para incrementar la corrupción. Aunque algunos estudios superiores contradecían esta tesis, es importante considerar el estudio de Kotera y otros autores (2012) que demostró que ante niveles bajos de democracia, el tamañaño del gasto estatal aumentaría la corrupción. Este estudio podría ser particularmente infkuyente en nuetsro trabajo puesto que las democracias en America Latina son relativamente nuevas y presentan diferentes elementos que demuestran su debilidad, la corrupción es uno de ellos. En general, esperariamos que a mayor gasto publico, el nivel de corrupción se eleve.  El ultimo factor a considerar sería el financiamiento de campañas públicas. El no financiamiento de campañas por parte del Estado que implica una asignación de presupiesto y rendicion de cuentas por parte d elos partidos políticos, es una oportunidad común para la corrupción desde el ambito privado al público. Podríamos recordar el escandalo de corrupción desatado a partir de la publicación de redes de sobornos y financiamiento de campañas en las eleccciones presidenciales de paises como Perú, Argentina, Colombia y otros países de la región por parte de la empresa multinacional Odrebrecht. Es así que se espera que los países con niveles más altos de financiamiento de campañas públicas tuvieran niveles más bajos de corrupción.  </span>
+
+
+#### **Objetivos**
+
+  <span style="color:black"> El ojetivo general de nuestro trabajo es determinar los principales factores que explican un nivel alto de corrupción en América Latina. Ello se realizará a partir de las variables de la base de datos que determinaremos tienen una gran relación con la corrupción y sobre los cuales podemos realizar un pruebas estadisticas.  </span>
+
+  <span style="color:black"> Los objetivos específicos de este reporte son dos. En primer lugar, elegir el modelo estadístico más adecuado para lograr el objetivo general. En segundo lugar, buscamos conocer si nuestro estudio nos permite identificar soluciones de políticas públicas para reducir el nivel de corrupción a partir de la identificación de los principales causales de corrupción en la región. </span>
+
+#### **Pregunta de investigación**
+
+<span style="color:black"> ¿Cuáles son los principales factores que explican la corrupción en los países de América Latina? </span>
+
+#### **Hipótesis**
+
+<span style="color:black">  La hipotesis que responde a nuestra pregunta es que el nivel de corrupción en los países de América Latina, está determinado principalmente por el financiamiento o no de campañas políticas 
+
+
+# **II. Metodología**
+
+ <span style="color:black"> Para fines del presente trabajo de investigación, el tipo de diseño será experimental debido a que buscamos conocer si nuestras variables independientes afectan o ayudan a predecir nuestra variable dependiente CPI que contiene la información del Indice de Percepción de Corrupción en los países de estudio. </span>
+ 
+|Código      | Nombre Variable                         | Información                      |   
+|------------|-----------------------------------------|----------------------------------|
+| CPI        | Índice de Percepción de Corrupción (IPC)|Escala de cero a 100, donde cero es muy corrupto y 100 es muy limpio.| 
+ 
+ <span style="color:black"> La unidad de análisis de este trabajo son países ubicados en la región de America Latina y el Caribe . Nuestra base de datos, recogida del repositorio de datos de un trabajo anterior en Github, tiene la información de 21 países (ver lista). Inicialmente se contaba con la información de 22 países; sin embargo, tuvimos que eliminar las observaciones para el caso de Venezuela debido a no contener información completa.</span>
+
+| Unidad de Analisis: Países    |                   |                
+|-------------------------------|-------------------|
+|  1. ARGENTINA                 | 12. GUYANA        |
+|  2. BOLIVIA                   | 13. HAITI         |
+|  3. BRASIL                    | 14. HONDURAS      |
+|  4. CHILE                     | 15. MEXICO        |
+|  5. COLOMBIA                  | 16. NICARAGUA     |
+|  6. COSTA RICA                | 17. PANAMA        |
+|  7. CUBA                      | 18. PARAGUAY      |
+|  8. REPUBLICA DOMINICANA      | 19. PERÚ          |
+|  9. ECUADOR                   | 20. SURINAM       |
+|  10. EL SALVADOR              | 21. URUGUAY       |
+|  11. GUATEMALA                | ~~22. VENEZUELA~~ |
+  
+ 
+
+ <span style="color:black"> De igual modo, durante la limpieza de datos, debido a la presencia de valores perdidos, se decidió trabajar con los datos del año 2018 así como decidimos quedarnos con 5 de las 10 variables que se describieron en la sección teorica-descriptiva. Esta elección del numero de variables se debe a que durante la busqueda del modelo mas adecuado, estas variables al contener información sin valores NA's o perdidos permitió la realización y comparación entre distintos modelos de regresión logística. </span>
+ 
+   - <span style="color:brown"> Lista de variables independientes con información completa al año 2018: </span>
+
+|**Código**  |**Nombre Variable**                  | **Información **                 |   
+|------------|-------------------------------------|----------------------------------|
+| gdp_pc     | PIB per cápita                      |En dólares estadounidenses de 2011| 
+| bur_rem    | Remuneración Burocrática            |Escala de 0 a 4, donde 0 es un país donde no hay burócratas asalariados ni empleados estatales y 4 es un país donde todos o casi todos los burócratas son asalariados y empleados estatales.             |   | 
+| log_gdp    | PIB crecimiento                     |Crecimiento del PIB porcentaje logaritmo|
+| pcf        | Financiamiento de campañas públicas |Escala de 0 a 4, donde 0 es un país que no tiene financiamiento de campañas públicas y 4 es un país donde el financiamiento de campañas públicas contribuye significativamente a todos o casi todos los partidos políticos.|
+|prop_rights |Derechos de propiedad                |Escala de 0 a 1, donde 0 es un país sin absolutamente ninguna protección de derechos de propiedad y 1 es un país con absoluta protección de derechos de propiedad.|
+
+<span style="color:black"> A continuación, se detalla la forma de recolección de datos para el presente trabajo:</span>
+
+   - <span style="color:black"> Los datos del IPC provienen de Transparencia Internacional,  un movimiento global que trabaja en más de 100 países para poner fin a la injusticia de la corrupción y que compila el Índice de Percepción de Corrupción. En esta se incluyen la variable democracia y libertad las cuales no están en nuestra base de datos de manera independiente. </span>
+   - <span style="color:black"> El PIB per cápita y PIB proviene de la base de datos del Banco Mundial.</span>
+   -  <span style="color:black">La remuneración burocrática y el financiamiento de campañas públicas provienen de la base de datos V-Dem, un indicador que conceptualiza la democracia. </span> 
+
+# **III. Hallazgos**
+
+## 1
+## **Analisis de Cluster Jerárquico. Modelos**
+
+#### 1. Exploración de datos 
+```{r}
+library(jmv)
+library(ggplot2)
+library(psych)
+library(DescTools)
+library(plotrix)
+library(moments)
+library(dplyr)
+library(cluster)
+library(factoextra)
+library(NbClust)
+library(tidyr)
+library(dplyr)
+library(rio)
+data=import("final_data.RDS")
+library(dplyr)
+data=subset(data, year== 2018)
+data = data[-c(22),] #eliminamos el caso 22 de venezuela
+data2=select(data, "gdp_pc", "bur_rem", "pcf", "prop_rights", "log_gdp")
+```
+
+```{r}
+library(rio)
+codigo= import("CODIGO.xlsx")
+row.names(data2)[1] <- "ARGENTINA" 
+row.names(data2)[2] <- "BOLIVIA" 
+row.names(data2)[3] <- "BRASIL" 
+row.names(data2)[4] <- "CHILE" 
+row.names(data2)[5] <- "COLOMBIA" 
+row.names(data2)[6] <- "COSTA RICA" 
+row.names(data2)[7] <- "CUBA" 
+row.names(data2)[8] <- "REPUBLICA DOMINICANA" 
+row.names(data2)[9] <- "ECUADOR" 
+row.names(data2)[10] <- "EL SALVADOR" 
+row.names(data2)[11] <- "GUATEMALA" 
+row.names(data2)[12] <- "GUYANA"
+row.names(data2)[13] <- "HAITI"
+row.names(data2)[14] <- "HONDURAS"
+row.names(data2)[15] <- "MEXICO"
+row.names(data2)[16] <- "NICARAGUA"
+row.names(data2)[17] <- "PANAMA"
+row.names(data2)[18] <- "PARAGUAY"
+row.names(data2)[19] <- "PERU"
+row.names(data2)[20] <- "SURINAM"
+row.names(data2)[21] <- "URUGUAY"
+```
+##### Elección de metodo:
+  - Realizaremos los pasos para un ánalisis de conglomerados Jerárquico y así agrupar los datos (países) a partir de las variables  PIB per cápita ("gdp_pc"), Remuneración Burocrática ("bur_rem"), Financiamiento de campañas públicas  ("pcf"), Derechos de propiedad ("prop_rights") y crecimiento de PIB ("log_gdp"). El uso de este metodo tiene dos propósitos. En primer lugar, crear un indicador alternativo al CPI que contenga las variables que creemos (luego de la revisión de la literatura) influyen en la prediccion del nivel de corrupción en un país. Este indicador podrá ser observado a través de un mapa que nos permita identificar los países con un (posible) determinado nivel de corrupción. En segundo lugar, el cluster podrá ser usado como variable independiente para realizar modelos estadisticos y predecir la variable Indice de Percepción de Corrupción.
+
+#### 2. Cálculo de distancias
+```{r}
+library(factoextra)
+library(ggplot2)
+m.distancia <- get_dist(data2, method = "euclidean", stand = T)
+```
+
+```{r}
+fviz_dist(m.distancia,gradient = list(low="blue", mid="white", high ="red"))
+```
+```{r, results='hide'}
+fviz_nbclust(data2, hcut, method = "gap_stat", stand = T)
+```
+```{r, results='hide'}
+library(NbClust)
+resnumclust <- NbClust(data2, distance = "euclidean", min.nc= 2, max.nc= 10, 
+                       method = "ward.D")
+```
+
+```{r}
+fviz_nbclust(resnumclust)
+```
+
+#### 3. Observamos los graficos
+```{r}
+#Aca especificamos el número de cortes que deseamos
+res1 <- hcut(data2, k = 3, stand = TRUE, hc_method = "ward.D")
+#Ward: se va agrupando de acuerdo a las menores distancias
+```
+
+```{r,echo=FALSE}
+#comando de gráfico
+fviz_dend(res1, rect = T, cex = 0.5)
+#rect= agregar rectangulo punteado
+#cex=Tamaño del titulo
+```
+
+```{r,echo=FALSE}
+fviz_cluster(res1, data = data2)
+```
+
+
+#### 4. Ver características de los grupos
+```{r,echo=FALSE}
+library(dplyr)
+clust_car=data2 %>%
+  mutate(Cluster = res1$cluster) %>%
+  group_by(Cluster) %>%
+  summarise_all("mean")
+clust_car
+```
+
+- Recordamos el sentido de cada variable:
+      
+      a) PIB per cápita (gdp_pc): nos permite comparar las diferencias en cuanto a condiciones económicas entre habitantes de distintos países. **Mientras mas bajo el PIB per cápita , el nivel de corrupción crecerá**. El mismo razonamiento se aplica al Crecimiento del PIB (log_gdp)
+      
+      b) Remuneración burocrática: si a los burócratas o funcionarios públicos se les paga más, tienen menos incentivos para la corrupción. Es decir, a menor valor en esta variable, mayor será la corrupción.
+      
+      c) Financiamiento de campañas públicas (pcf): el financiamiento de campañas es una oportunidad común para la corrupción, por lo que esperaríamos que los países con niveles más altos de financiamiento de campañas públicas tuvieran niveles más bajos de corrupción. Es decir, a menor valor en esta varaible, mas alto tenderá a ser el nivel de corrupción en dicho país. 
+      
+      d) Derechos de propiedad: La deficiente aplicación de los contratos y los derechos de propiedad por parte del Estado incita a las personas del sector privado a participar en comportamientos corruptos para preservar sus derechos de propiedad (Dimant y Tosato 2018: 341).En ese sentido, a menor en esta variable, mayor será el nivel de corrupción. 
+    
+
+En ese sentido, como entendemos que estas variables se relación de manera inversa con la corrupción decimos que:
+   
+    1. El primer cluster que contiene los valores más altos en términos de las variables ya especificadas, indicará un nivel de corrupción cada vez bajo.
+   
+    2. El cluster numero 2, que contiene los valores intermedios corresponderá también a un nivel de corrupción medio.
+   
+    3. El tercer cluster que contiene los valores más bajos de las variables de estudio, nos indicará un nivel alto de corrupción. Esto a partir de la lógica de nuestro estudio explicada lineas arriba. 
+
+
+#### 5. Agregamos a la base de datos
+
+Finalmente unimos esta variable de cluster a la base de datos.
+
+```{r,echo=FALSE}
+data2$IndiceCorrupción<-as.factor(res1$cluster)
+levels(data2$IndiceCorrupción)=c("Bajo","Medio","Alto")
+table(data2$IndiceCorrupción)
+```
+###  **MAPA**
+
+```{r,echo=FALSE}
+data2$ISOCODE=codigo$`ISO CODE`
+```
+```{r,echo=FALSE}
+row.names(data2)[1] <- "ARGENTINA" 
+row.names(data2)[2] <- "BOLIVIA" 
+row.names(data2)[3] <- "BRASIL" 
+row.names(data2)[4] <- "CHILE" 
+row.names(data2)[5] <- "COLOMBIA" 
+row.names(data2)[6] <- "COSTA RICA" 
+row.names(data2)[7] <- "CUBA" 
+row.names(data2)[8] <- "REPUBLICA DOMINICANA" 
+row.names(data2)[9] <- "ECUADOR" 
+row.names(data2)[10] <- "EL SALVADOR" 
+row.names(data2)[11] <- "GUATEMALA" 
+row.names(data2)[12] <- "GUYANA"
+row.names(data2)[13] <- "HAITI"
+row.names(data2)[14] <- "HONDURAS"
+row.names(data2)[15] <- "MEXICO"
+row.names(data2)[16] <- "NICARAGUA"
+row.names(data2)[17] <- "PANAMA"
+row.names(data2)[18] <- "PARAGUAY"
+row.names(data2)[19] <- "PERU"
+row.names(data2)[20] <- "SURINAM"
+row.names(data2)[21] <- "URUGUAY"
+```
+
+```{r,echo=FALSE}
+library(ggplot2)
+library(rworldmap)
+library(rgdal)
+
+joinData <- joinCountryData2Map( data2,
+                                 joinCode = "ISO_A2",
+                                 nameJoinColumn = "ISOCODE")#iso_code para unir el codigo y datos de cada pais, se utiliza para evitar la omision de datos; joinData es lo que hemos juntado
+```
+```{r,echo=FALSE}
+mapRegion = "america"
+```
+```{r,echo=FALSE}
+library(RColorBrewer)
+colourPalette <- brewer.pal(3,'Greens')
+theMap_america<- mapCountryData( joinData, nameColumnToPlot="IndiceCorrupción", mapRegion = "america",mapTitle="Indicador de Corrupción de America Latina", addLegend=TRUE ,colourPalette=colourPalette )
+```
+
+   - Interpretación Mapa: Observamos que países como Perú y Chile se percibirían como países con Altos Indices de Corrupción a partir de los bajos niveles en el financiamiento de campañas políticas desde los Estados, en los niveles del PIB per cápita y crecimiento economico; así como en términos de remuneración burocratica y en ser garantes del cumplimiento de los derechos de propiedad. 
+
+
+
+### **Modelos a partir del cluster como variable independiente**
+#### a) Modelo de Regresión Lineal Simple
+```{r, echo=FALSE, results='hide'}
+data2$CPI=data$CPI
+data2$CPI_ORDINAL = cut(data$CPI, breaks = c(0, 18,36.68, 70), include.lowest = T, ordered_result = T, labels = c("Bajo", "Medio", "Alto"))
+library(jtools)
+modeloLinealSim1=lm(data2$CPI~ data2$IndiceCorrupción)
+```
+```{r}
+summary(modeloLinealSim1)
+```
+
+   - El modelo 1 creado a partir del cluster no es válido pues su p valor es mayor a 0.05.
+
+#### b) Modelo de Ordinal
+```{r}
+str(data2$CPI_ORDINAL)
+str(data2$IndiceCorrupción)
+```
+
+```{r, echo=FALSE, results="hide"}
+library(MASS)
+modelo2ordinal <- polr(CPI_ORDINAL~ IndiceCorrupción, data = data2, Hess=T)
+```
+```{r}
+summary(modelo2ordinal)
+```
+
+   1.1 Ver si las variables son significativas para estimar un p-valor:
+```{r, echo=FALSE, results='hide'}
+summary_table <- coef(summary(modelo2ordinal))
+summary_table
+pval <- pnorm(abs(summary_table[,"t value"]),lower.tail =FALSE)*2
+pval
+summary_table <- cbind(summary_table,"p value"= pval)
+```
+```{r}
+summary_table
+```
+   - **Respuesta:** Las variables independientes (dummies a partir del cluster creado) no son significativas porque su p-valor es mayor a 0.05 por tanto no aportan al modelo. 
+   
+
+   1.2  ¿Qué podemos concluir viendo el signo de los coeficientes del modelo ordinal con variable independiente el cluster creado ? 
+```{r}
+coef(modelo2ordinal)
+```
+     - En caso de las variables del cluster IndiceCorrupción [en las categoria dummies de Medio y Alto] podemos observar que el signo es negativo lo que indica una relación inversa con la variable dependiente sobre el Indice de Percepción de Corrupción en un país. 
+
+   1.3 Interpretación de los Odds Ratio de las variables
+
+```{r}
+exp(coef(modelo2ordinal))
+1/0.6666659
+1/0.2222220 
+```
+    + Cluster IndiceCorrupciónMedio OR = 0.6666659  (1/0.6666659  = 1.500002), relación inversa
+       - Si un país no pertenece al grupo de países que tiene un nivel medio en el indicador cluster creado (a partir de las variables Pib per capita,remuneración burocratica, financiamiento de campañas politicas y crecimiento del pib),es decir que se encuentra o en un nivel alto o bajo, la probabilidad que su IPC sea más alto (y por tanto que el nivel de corrupción menor) aumenta 1.5 veces.
+       
+    + Cluster IndiceCorrupciónAlto OR =  0.2222220   (1/ 0.2222220  = 4.500005), relación inversa
+       - Si un país no pertenece al grupo de países que tiene un nivel alto en el indicador cluster creado (a partir de las variables Pib per capita,remuneración burocratica, financiamiento de campañas politicas y crecimiento del pib),es decir que se encuentra o en un nivel medio o bajo, la probabilidad que su Indice de Percepción de Corrupción (y por tanto que el nivel de corrupción menor) sea más alto aumenta 4.5 veces.
+
+   1.4 ¿Cuánto explica el modelo?
+```{r}
+library(DescTools)
+PseudoR2(modelo2ordinal, which = c("Nagelkerke"))
+```
+
+   El modelo ordinal creado con variable independiente el cluster de las variables Pib per capita,remuneración burocratica, financiamiento de campañas politicas y crecimiento del pib,  tiene un nivel de explicación del 13% sobre la probabilidad de cambio de nivel en el Indice de Percepción de Corrupción en un país.  
+   
+## Interpretación: 
+
+```{r,echo=FALSE}
+export_summs(modeloLinealSim1, modelo2ordinal,scale = FALSE)
+```
+
+   - Los modelos creados (lineal y ordinal) tomando como variable independiente el cluster creado y como variable dependiente el CPI **no son adecuados para fines de nuestro estudio**.
+    
+       + El **modelo 1** (lineal) creado con el cluster (VI), no es válido.
+    
+       + En el **modelo 2** (ordinal) creado a partir del cluster (VI), observamos que esta unica variable no es estadisticamente significativa para predecir la variable dependiente CPI y el modelo solo explica esta en un 13%.
+
+## 2
+## **Modelo ordinal a partir de 5 variables independientes**
+```{r,echo=FALSE}
+library(MASS)
+modeloORD1 <- polr(CPI_ORDINAL ~gdp_pc+ bur_rem+pcf+ prop_rights+ log_gdp , data = data2, Hess=T)
+summary(modeloORD1)
+```
+
+## Interpretación: 
+```{r,echo=FALSE}
+library(stargazer)
+stargazer(modeloORD1, type = "text")
+```
+
+   - Como se ha observado, el modelo ordinal planteado **no permite realizar un análisis estadistico adecuado** debido al error que se produce.
+   
+## 3
+## **Modelos Multiples con 5 (a menos) variables independientes**
+```{r,echo=FALSE, results="hide"}
+modeloM1=lm(CPI ~ gdp_pc + bur_rem+ pcf+ prop_rights+ log_gdp, data=data2)
+summary(modeloM1)
+```
+   1. Modelo M1, variables independientes gdp_pc, bur_rem,  pcf, prop_rights, log_gdp 
+      a) El modelo es válido pues su p valor es menor a 0.05.
+      b) Las variables más significativas para predecir el Indice de Percpeción de Corrupción en los países de estudio es el PIB per cápita. El resto de variables independientes no son significativas.
+      c) El modelo ayuda a predecir la variable independiente en un 63%. 
+  
+```{r,echo=FALSE, results="hide"}
+modeloM2 =lm(CPI ~ gdp_pc + bur_rem+ pcf+ prop_rights, data=data2)
+summary(modeloM2)
+```
+   2. Modelo M2, variables independientes gdp_pc, bur_rem,  pcf, prop_rights 
+      a) El modelo M2 es válido pues su p valor es menor a 0.05.
+      b) Las variables más significativas para predecir el Indice de Percepción de Corrupción en los países de estudio es el PIB per cápita. El resto de variables independientes no son significativas.
+      c) El modelo ayuda a predecir la variable independiente en un 65%.
+```{r,echo=FALSE, results="hide"}
+modeloM3 =lm(CPI ~ gdp_pc + bur_rem+ pcf, data=data2)
+summary(modeloM3)
+```
+   3. El modelo M3 es valido y ayuda a predecir el 67% a pesar de tener menos variables que el  modelo 1 y 2. 
+   4. Realizamos el modelo 4 con las variables gdp_pc + bur_rem, es valido
+   5. Realizamos el modelo 5 con las variables gdp_pc + pcf, es valido
+   
+
+```{r,echo=FALSE, results="hide"}
+modeloM4 =lm(CPI ~ gdp_pc + bur_rem, data=data2)
+summary(modeloM4)
+modeloM5= lm(CPI ~ gdp_pc + pcf, data=data2)
+summary(modeloM5)
+```
+
+## Interpretación
+
+```{r,echo=FALSE}
+library(stargazer)
+stargazer(modeloM1, modeloM2, modeloM3, modeloM4, modeloM5, type="text")
+```
+
+```{r,echo=FALSE}
+testplot1 <- plot_summs(modeloM1, modeloM2, modeloM3, modeloM4, modeloM5, legend.title="Predicción IPC",scale = TRUE, robust = TRUE)
+testplot1
+```
+
+
+El modelo que nos ayuda mejor a predecir la variable dependiente Indice de percepción de Corrupción es el <span style="color:blue"> **modelo 3 con la siguiente ecuación**</span>  <span style="color:black"> : (0.002557* gdp_pc) - (17.14 * bur_rem) - (2.325 *pcf) </span> 
+
+En este modelo (y en el resto de modelos) la unica variable estadisticamente significativa para predecir el IPC es la variable que contiene la información del PIB pér capita. La relación entre la variable independiente PIB per cápita con la variable dependiente IPC es directa y postiva; es decir, mientras más alto es el nivel de poder adquisitivo en un país, más alto será su IPC. No se debe olvidar que  la escala de la variable Indice de Percepción de Corrupción va del 0 al 100 donde 0 es muy corrupto y 100 es un país muy limpio. **En consecuencia, se comprueba la información que habíamos presentado en nuestro marco teórico: mientras mayor sea el poder adquisitivo de un país, más limpio en términos de corrupción será. **
+
+## 4 
+## **¿El Modelo de RLM 3 elegido (modeloM3) cumple con los requisitos de una regresión lineal?**
+```{r}
+summary(modeloM3)
+```
+
+   <span style="color:blue"> a) </span>  Sí es estadisticamente válido pues el p-value es menor a 0.05.
+   
+   <span style="color:blue"> b) </span>  ¿Qué tanto explica el modelo? El R2 ajustado es 0.6715. Explica 67% la información de la variable dependiente CPI.
+  
+   <span style="color:blue"> c) </span>  ¿Las variable independientes aportan al modelo? Solo la variable de información del PIB per capita tiene un p valor menor a 0.05; por lo tanto es la unica que aporta significativamente a la predicción de la variable dependiente.
+  
+   <span style="color:blue"> d) </span>  Identificamos los coeficientes Estimate (Coeficiente)
+
+```{r,echo=FALSE,  results="hide"}
+modeloM3$coefficients
+```
+   <span style="color:blue"> - Ecuación: </span>  <span style="color:black"> CPI= 87.769898326 + 0.002556482* gdp_pc  - (17.136418338 * bur_rem ) - (2.324767216 * pcf)  </span>
+```{r,echo=FALSE,results="hide"}
+cor.test(data2$CPI, data2$gdp_pc, method = "spearman")
+cor.test(data2$CPI, data2$pcf, method = "spearman")
+cor.test(data2$CPI, data2$bur_rem, method = "spearman")
+```
+
+   - Vemos que la variable dependiente solo está correlacionada con la variable gdp_pc y no con la variable pcf ni con la variable bur_rem. 
+ 
+#### Linealidad  
+```{r,echo=FALSE}
+#Linealidad
+plot(modeloM3, 1)
+```
+   
+   - I: Al no ser la linea complemente horizontal, parece que no se está cumpliendo a cabalidad con este supuesto. Los casos 1 (Argentina) y 8 (Republica Dominicana) estarían afectando al modelo y supuesto de linealidad que nos pide que no exista un patrón.
+
+#### Normalidad de Residuos
+```{r,echo=FALSE}
+#Normalidad de Residuos
+#forma1
+plot(modeloM3,2)
+#forma2 H0: los residuos son normales 
+library(nortest)
+lillie.test(modeloM3$residuals)
+```
+   - I: Según el gráfico y la prueba de normalidad, el modelo sí pasaría la prueba de normalidad de residuos pues se acepta la Hipotesis nula al ser el p-valor mayor a 0.05. SÍ hay normalidad de residuos.
+   
+#### Hocedasticidad
+```{r,echo=FALSE}
+#Hocedasticidad
+plot(modeloM3,3)
+#H0:el modelo es homocedástico
+library(lmtest)
+bptest(modeloM3)
+```
+
+   - I: La línea no tiende a ser horizontal. Hay una cierta tendencia lineal directa en los datos 8 y 1. El p valor de la prueba es menor a 0.05, entonces se rechaza la H0. Es decir, el modelo no es homocedástico.
+   
+#### No Multicolinealidad
+```{r,echo=FALSE}
+#No Multicolinealidad
+library(DescTools)
+library(jtools)
+VIF(modeloM3) #debesalirmenorque4
+sqrt(VIF(modeloM3)) > 4
+```
+   - I: Las variables independientes no están corelacionadas entre sí. Se cumple con el supuesto de no multicolinealidad.
+   
+
+#### Independencia de residuos 
+```{r,echo=FALSE}
+## Independencia de residuos H0:Las residuos son independientes
+library(car)
+durbinWatsonTest(modeloM3)
+```
+   - I: El p valor de la prueba es mayor a 0.05; entonces aceptamos la hipotesis nula. Sí existe independencia de residuos.
+
+## Interpretación
+   - El modelo 3 a pesar de predecir la variable dependiente en un 67% no cumple con todos los supuestos de regresión logística múltiple. 
+
+## 5 
+## **Comparación Modelo Multiple 3 con Modelo Lineal Simple 2**
+
+El modelo de regresión multiple tiene 3 variables independientes siendo la más significativa la variable gdp_pc. Si creamos un modelo lineal simple con la variable más significativa del modelo elegido, ¿cuál de los dos modelos explica mejor la variable dependiente? 
+```{r,echo=FALSE, results='hide'}
+modeloLinSim2 =lm(data2$CPI ~ data2$gdp_pc)
+summary(modeloLinSim2)
+```
+
+   <span style="color:blue"> a) </span>  El modelo simple que tiene como unica  variable independiente al gdp_pc sí es estadisticamente válido pues el p-value es menor a 0.05.
+   
+   <span style="color:blue"> b) </span>  ¿Qué tanto explica el modelo? El R2 ajustado es 0.6164. Explica 62% la información de la variable dependiente CPI.
+
+   <span style="color:blue"> c) </span>  ¿La variable independiente aporta al modelo? Sí, la variable de información del PIB per capita tiene un p valor menor a 0.05. Además existe correlación entre ambas.
+   
+   <span style="color:blue"> d) </span>  Ecuación: <span style="color:black"> - CPI= 20.289028635 + 0.002235254 * gdp_pc </span>   
+   
+```{r,echo=FALSE, results='hide'}
+modeloLinSim2$coefficients
+cor.test(data2$CPI, data2$gdp_pc, method = "spearman")
+```
+```{r,echo=FALSE,results='hide'}
+#Coeficiente de determinación R2 (tamaño del efecto)
+R2_pearson <- cor(x = data2$CPI,
+                  y = (data2$gdp_pc),
+                  method = "pearson")
+R2_pearson <- R2_pearson^2
+R2_pearson
+#Coeficiente de determinación R2 (tamaño del efecto), ajustando la influencia de valores atipicos 
+R2_spearman <- cor(x = data2$CPI,
+                  y = (data2$gdp_pc),
+                  method = "spearman")
+R2_spearman <- R2_spearman^2
+R2_spearman
+```
+
+## Interpretración
+```{r,echo=FALSE}
+library(stargazer)
+stargazer( modeloM3, modeloLinSim2, type="text")
+```
+   - Debido a que el modelo 1 no pasa los requisitos de regresión lineal multiple, y que el segundo modelo explica a un 62% la variable dependiente, elegimos el **modelo de regresión simple 2** con unica variable independiente PIB per cápita. 
+   
+# **IV . Conclusiones**
+
+   - Nuestro estudio nos ha permitido observar que el modelo ordinal planteado inicialmente solo explicaría en un 13% el cambio en la probablidad del IPC en un país. 
+   Consideramos que el modelo más adecuado para explicar los factores que predicen o son causales de corrupción lo encontramos en el modelo lineal realizado a partir de la variable independiente PIB per cápita (modeloLinSim2). Este modelo predice en un 62% el Indice de Percepción de Corrupción cuya escala va de 0 a 100 siendo 0 muy corrupto y 100 un país muy limpio de corrupción. 
+   La relación que se encuentra en este modelo es positiva, es decir si el poder adquisitivo de los ciudadanos aumenta, el IPC tenderá a arrojar un indice cada vez mas alto lo que indicaría que la corrupción en dicho país será cada vez menor. 
+   
+   - Validación de Hipotesis: La hipotesis inicial no se pudo comprobar como verdadera ya que a partir del modelo elegido, como se explicó anteriormente, el PIB pér capita sería el principal factor que explicaría la corrupción en los países de América Latina y este no estaría determinado por el financiamiento o no de campañas políticas como en principio se había asumido. 
+
+   - Entre las limitaciones de este modelo y del estudio en general, reconocemos que el PIB per cápita si bien puede ayudarnos a comparar países en relación a su poder adquisitivo por ciudadano, este es un indicador que no nos brinda información sobre la distribución de la riqueza el cual resultaría ser un componente igual de interesante cuando abordamos el crecimiento economico y el desarrollo de un país. Si bien intentamos solucionar esta limitación a través de la incorporación del coeficiente de GINI, no pudimos obtener datos completos de todos los países que conformaron nuestra muestra de estudio. Entre las razones, tenemos que en las principales bases de datos como el Banco Mundial, los países no registran información con respecto a este indicador. Esto en gran medida se explica a que algunos de los 35 países que conforman el continente Americano, presentan dificultades para recopilar la información poblacional y/o en otros casos, como sucedería en los países más autoritarios, deliberadamente deciden no compartir este tipo de información. 
+   
+   - Futuras investigaciones que aborden los factores explicativos del nivel de corrupción de los países ha de tener en cuenta estas limitaciones y procurar generar instrumentos de recoleccion de datos en coordinación con las estadisticas oficiales de los gobiernos. Este tipo de estudios resultan muy importantes para recomendar políticas para mejorar el bienestar poblacional pues la corrupción es uno de los factores que afectan negativamente al desarrollo de un país. 
+   
+   - A partir de nuestros hallazgos, consideramos que los países con PIB per cápita altos presentan niveles mas bajos de corrupción debido a que este es un indicador relacionado al bienestar de un territorio en materia de condiciones económicas para la población. En ese sentido, los gobiernos han de promover políticas orientadas a estimular la actividad económica responsable, así como orientar a que este crecimiento se dirija netamente a la búsqueda del desarrollo del país y no al desvío de fondos entendidas como prácticas deshonestas y corruptas.  Además, para fiscalizar que el crecimiento se traduzca realmente en desarrollo,  es importante realizar un seguimiento de la ejecución de políticas públicas. Asimismo, incorporar a la estadistica nacional indices como los de Pobreza Multidimensional y de Desigualdad de Renta, ayudarán a redefinir la orientación de las políticas desde los gobiernos haciendolos más eficaces en su rol de dirigentes del futuro y bienestar de los ciudadanos. 
+   
+# **V.Bibliografía**
+Diego Bautista, Oscar. (2012). El problema de la corrupción en América Latina y la incorporación de la ética para su solución. Espacios Públicos, 15, 48-62 https://www.redalyc.org/pdf/676/67624803004.pdf
+
+Jong-sung, Y., & Khagram, S. (2005). A Comparative Study of Inequality and Corruption. American Sociological Review, 70(1), 136–157. https://doi.org/10.1177/000312240507000107
+
+Justesen, M. K., & Bjørnskov, C. (2014). EconPapers: Exploiting the Poor: Bureaucratic Corruption and Poverty in Africa. EconPapers. https://econpapers.repec.org/article/eeewdevel/v_3a58_3ay_3a2014_3ai_3ac_3ap_3a106-115.htm
+
+OECD. (2019). La Integridad Pública en América Latina y el Caribe 2018-2019. OCDE: Sociedad Civil. https://www.oecd.org/gov/ethics/integridad-publica-america-latina-caribe-2018-2019.pdf 
+
+Ramos Rollón, Marisa y Álvarez García, Francisco Javier. (2019). "El control de la corrupción en América Latina: agenda política, judicialización e internacionalización de la lucha contra la corrupción". 2019, de Fundación Carolina Sitio web: https://www.fundacioncarolina.es/wp-content/uploads/2019/07/DT_FC_11.p
+
+
